@@ -3,7 +3,11 @@
 Most of the examples will be a part of my blog at stebe.info.
 
 
-# Related blog articles
+## Related blog articles
 
-Sync prefix-lists via Junos PyEZ on several routers
-at https://stebe.info/2016/11/sync-prefix-lists-via-junos-pyez/
+* [Sync prefix-lists via Junos PyEZ on several routers](https://stebe.info/2016/11/sync-prefix-lists-via-junos-pyez/)
+
+
+## Note
+
+PLEASE BE AWARE THAT MOST OF THE STUFF IS NOT PRODUCTION READY, YET! ;-)
